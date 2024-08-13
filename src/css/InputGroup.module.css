@@ -1,0 +1,16 @@
+.inputGroup{
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  margin: 2rem 0 0 0;
+  gap: 1rem;
+}
+
+label{
+  margin-bottom: 0.5rem;
+}
+
+.buttonGroup{
+  display: flex;
+  gap: 1rem;
+}
